@@ -43,10 +43,10 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [Auth System Ecommerce](https://github.com/Luisin07/auth-system-ecommerce)  
+- 🔗 [Visual Store Auth System](https://github.com/Luisin07/visual-store-auth-system)  
   Authentication system with login and user management for an e-commerce application built with PHP, MySQL and Bootstrap  
 
-- 🔗 [Career AI Agent](https://github.com/Luisin07/career-ai-agent)  
+- 🔗 [Career AI Agent](https://github.com/Luisin07/Agente-Carreiras-Project)  
   AI-based career assistant using Python and LLMs to analyze automation risks and suggest career strategies  
 
 ---
