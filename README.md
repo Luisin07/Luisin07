@@ -17,11 +17,11 @@
 
 ## 🧠 About Me
 
-- Focused on **Web Development** and building real-world projects
-- Computer Science student strengthening technical foundations
-- Interested in **Data**, JavaScript ecosystem and modern technologies
-- Always improving skills and building a professional portfolio
-- Goal: build a solid career in tech and achieve international opportunities
+- Focused on **Web Development** and building real-world projects  
+- Computer Science student strengthening technical foundations  
+- Interested in **Data**, JavaScript ecosystem and modern technologies  
+- Always improving skills and building a professional portfolio  
+- Goal: build a solid career in tech and achieve international opportunities  
 
 ---
 
@@ -41,6 +41,16 @@
 
 ---
 
+## 📂 Featured Projects
+
+- 🔗 [Auth System Ecommerce](https://github.com/Luisin07/auth-system-ecommerce)  
+  Authentication system with login and user management for an e-commerce application built with PHP, MySQL and Bootstrap  
+
+- 🔗 [Career AI Agent](https://github.com/Luisin07/career-ai-agent)  
+  AI-based career assistant using Python and LLMs to analyze automation risks and suggest career strategies  
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -52,14 +62,14 @@
 
 ## 📌 Current Focus
 
-- Building strong web projects
-- Improving frontend skills
-- Learning more about data
-- Organizing a professional portfolio
+- Building strong web projects  
+- Improving frontend skills  
+- Learning more about data  
+- Organizing a professional portfolio  
 
 ---
 
 ## 🔗 Connect with Me
 
-- LinkedIn: [luis-santini](https://www.linkedin.com/in/luis-santini)
+- LinkedIn: [luis-santini](https://www.linkedin.com/in/luis-santini)  
 - GitHub: [Luisin07](https://github.com/Luisin07)
