@@ -43,7 +43,7 @@
 
 ## 📂 Featured Projects
 
-- 🔗 [Visual Store Auth System](https://github.com/Luisin07/visual-store-auth-system)  
+- 🔗 [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)  
   Authentication system with login and user management for an e-commerce application built with PHP, MySQL and Bootstrap  
 
 - 🔗 [Career AI Agent](https://github.com/Luisin07/Agente-Carreiras-Project)  
