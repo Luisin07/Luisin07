@@ -19,9 +19,9 @@
 
 I am a Computer Science student focused on building real-world applications with a strong emphasis on web development.
 
-My goal is not just to write code, but to understand how systems work in practice — translating business rules into structured logic and clear user experiences.
+My goal is to go beyond writing code — I focus on understanding how systems work in practice, translating business rules into structured logic and clear user experiences.
 
-Currently, I am focused on strengthening my backend fundamentals, improving frontend execution, and building a portfolio that reflects real problem-solving ability.
+Currently, I am strengthening backend fundamentals, improving frontend execution, and building a portfolio that reflects real problem-solving ability.
 
 ---
 
@@ -44,18 +44,21 @@ Currently, I am focused on strengthening my backend fundamentals, improving fron
 ## Featured Projects
 
 * 🔗 [Logistics Validation Engine](https://github.com/Luisin07/logistics-validation-engine)
-  Simulation of a logistics decision engine that processes ZIP codes to determine delivery availability using region mapping, operational constraints, lead time and slot capacity. Designed to represent real-world business rules with a clear and structured visual output
+  Simulation of a logistics decision engine that processes ZIP codes to determine delivery availability using region mapping, operational constraints, lead time and slot capacity. Designed to represent real-world business rules with a structured and visual output
 
 * 🔗 [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)
-  Authentication and user management system for an e-commerce application, built with PHP, MySQL and Bootstrap, focusing on session control, validation and structured backend logic
+  Authentication and user management system for an e-commerce application, built with PHP, MySQL and Bootstrap, focusing on validation, session control and backend structure
 
 ---
 
 ## GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luisin07&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin07&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luisin07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
@@ -63,8 +66,8 @@ Currently, I am focused on strengthening my backend fundamentals, improving fron
 ## Current Focus
 
 * Building projects that simulate real-world systems
-* Improving backend architecture and logic design
-* Strengthening frontend execution and UI consistency
+* Improving backend logic and architecture
+* Strengthening frontend consistency and UX
 * Expanding knowledge in data-related topics
 
 ---
