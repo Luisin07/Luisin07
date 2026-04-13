@@ -19,7 +19,7 @@
 
 I am a Computer Science student focused on building real-world applications with a strong emphasis on web development.
 
-My goal is to go beyond writing code — I focus on understanding how systems work in practice, translating business rules into structured logic and clear user experiences.
+My goal is to go beyond writing code by understanding how systems work in practice, translating business rules into structured logic and clear user experiences.
 
 Currently, I am strengthening backend fundamentals, improving frontend execution, and building a portfolio that reflects real problem-solving ability.
 
@@ -54,11 +54,11 @@ Currently, I am strengthening backend fundamentals, improving frontend execution
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luisin07&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luisin07&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin07&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luisin07&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -67,7 +67,7 @@ Currently, I am strengthening backend fundamentals, improving frontend execution
 
 * Building projects that simulate real-world systems
 * Improving backend logic and architecture
-* Strengthening frontend consistency and UX
+* Strengthening frontend consistency and user experience
 * Expanding knowledge in data-related topics
 
 ---
