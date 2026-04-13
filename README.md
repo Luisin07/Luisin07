@@ -1,7 +1,7 @@
 <h1 align="center">Luis Otavio Santini Feitosa</h1>
 
 <p align="center">
-  <strong>Computer Science Student</strong> • <strong>Web Developer</strong> • <strong>Data Enthusiast</strong>
+  Computer Science Student • Web Developer • Data Enthusiast
 </p>
 
 <p align="center">
@@ -15,17 +15,17 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- Focused on **Web Development** and building real-world projects  
-- Computer Science student strengthening technical foundations  
-- Interested in **Data**, JavaScript ecosystem and modern technologies  
-- Always improving skills and building a professional portfolio  
-- Goal: build a solid career in tech and achieve international opportunities  
+I am a Computer Science student focused on building real-world applications with a strong emphasis on web development.
+
+My goal is not just to write code, but to understand how systems work in practice — translating business rules into structured logic and clear user experiences.
+
+Currently, I am focused on strengthening my backend fundamentals, improving frontend execution, and building a portfolio that reflects real problem-solving ability.
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -41,17 +41,17 @@
 
 ---
 
-## 📂 Featured Projects
+## Featured Projects
 
-- 🔗 [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)  
-  Authentication system with login and user management for an e-commerce application built with PHP, MySQL and Bootstrap  
+* 🔗 [Logistics Validation Engine](https://github.com/Luisin07/logistics-validation-engine)
+  Simulation of a logistics decision engine that processes ZIP codes to determine delivery availability using region mapping, operational constraints, lead time and slot capacity. Designed to represent real-world business rules with a clear and structured visual output
 
-- 🔗 [Career AI Agent](https://github.com/Luisin07/Agente-Carreiras-Project)  
-  AI-based career assistant using Python and LLMs to analyze automation risks and suggest career strategies  
+* 🔗 [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)
+  Authentication and user management system for an e-commerce application, built with PHP, MySQL and Bootstrap, focusing on session control, validation and structured backend logic
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luisin07&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -60,16 +60,16 @@
 
 ---
 
-## 📌 Current Focus
+## Current Focus
 
-- Building strong web projects  
-- Improving frontend skills  
-- Learning more about data  
-- Organizing a professional portfolio  
+* Building projects that simulate real-world systems
+* Improving backend architecture and logic design
+* Strengthening frontend execution and UI consistency
+* Expanding knowledge in data-related topics
 
 ---
 
-## 🔗 Connect with Me
+## Contact
 
-- LinkedIn: [luis-santini](https://www.linkedin.com/in/luis-santini)  
-- GitHub: [Luisin07](https://github.com/Luisin07)
+* LinkedIn: https://www.linkedin.com/in/luis-santini
+* GitHub: https://github.com/Luisin07
