@@ -1,17 +1,17 @@
 <h1 align="center">Luis Otavio Santini Feitosa</h1>
 
 <p align="center">
-  <strong>Computer Science Student</strong> • 
-  <strong>Web Developer</strong> • 
+  <strong>Computer Science Student</strong> •
+  <strong>Web Developer</strong> •
   <strong>Data Enthusiast</strong>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/luis-santini">
-    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Santini-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Luis%20Santini-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Luisin07">
-    <img src="https://img.shields.io/badge/GitHub-Luisin07-24292F?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Luisin07-111827?style=flat-square&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -21,25 +21,25 @@
 
 I am a Computer Science student focused on building practical and well-structured applications, with a strong emphasis on web development.
 
-I am especially interested in translating real business rules into clear logic, functional systems, and intuitive user experiences.
+My main interest is turning real business rules into functional systems, clear logic, and intuitive user experiences. Rather than building purely academic projects, I aim to work on solutions that reflect real operational scenarios and practical development challenges.
 
-At this stage, I am strengthening my backend fundamentals, improving frontend consistency, and building projects that reflect real-world problem solving rather than only academic exercises.
+Currently, I am strengthening backend fundamentals, improving frontend execution, and building a portfolio that demonstrates structure, clarity, and problem-solving ability.
 
 ---
 
-## Tech Stack
+## Core Stack
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" />
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-1F2937?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-1F2937?style=flat-square&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-1F2937?style=flat-square&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/React-1F2937?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-1F2937?style=flat-square&logo=nodedotjs&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Python-1F2937?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/PHP-1F2937?style=flat-square&logo=php&logoColor=777BB4" />
+  <img src="https://img.shields.io/badge/MySQL-1F2937?style=flat-square&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Git-1F2937?style=flat-square&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/GitHub-1F2937?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 ---
@@ -47,34 +47,28 @@ At this stage, I am strengthening my backend fundamentals, improving frontend co
 ## Featured Projects
 
 ### [Logistics Validation Engine](https://github.com/Luisin07/logistics-validation-engine)
-A logistics decision engine simulation created to validate delivery availability based on ZIP code ranges, regional mapping, operational constraints, lead time, and slot capacity.  
-The project was designed to represent real business rules with structured logic and visual clarity.
+Simulation of a logistics decision engine that validates delivery availability based on ZIP code ranges, regional mapping, lead time, delivery windows, and operational constraints. Built to represent real-world business rules with structured logic and clear output.
 
 ### [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)
-Authentication and user management system for an e-commerce environment, built with PHP, MySQL, and Bootstrap.  
-Focused on input validation, session control, backend organization, and practical application structure.
+Authentication and user management system for an e-commerce environment, developed with PHP, MySQL, and Bootstrap, focusing on validation, session control, and backend organization.
 
 ---
 
-## GitHub Stats
+## What I Am Working On
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=luisin07&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisin07&layout=compact&theme=midnight-purple&hide_border=true&langs_count=8" />
-</p>
-
----
-
-## Current Focus
-
-- Building projects that simulate real-world systems
-- Improving backend logic and code structure
-- Strengthening frontend consistency and user experience
+- Building projects that simulate real business scenarios
+- Improving backend logic and application structure
+- Strengthening frontend consistency and usability
 - Expanding my knowledge in data-related topics
-- Creating a portfolio that reflects practical development skills
+- Creating a portfolio focused on practical development
+
+---
+
+## Professional Direction
+
+I am currently positioning my profile toward web development, especially projects involving application logic, system structure, business rules, and user-facing solutions.
+
+My goal is to keep evolving through hands-on work that improves both technical execution and understanding of how software supports real operations.
 
 ---
 
