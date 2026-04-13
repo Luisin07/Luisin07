@@ -13,7 +13,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Luisin07">
-    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
@@ -32,42 +32,49 @@ Currently, I am strengthening backend fundamentals, improving frontend execution
 ## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,python,php,mysql,git,github&perline=5" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
 ---
 
 ## Featured Projects
 
-### [Logistics Validation Engine](https://github.com/Luisin07/logistics-validation-engine)
-A logistics decision engine simulation created to validate delivery availability based on ZIP code ranges, regional mapping, operational constraints, lead time, and slot capacity.  
-Built to represent real business rules with structured logic and clear visual output.
+### Logistics Validation Engine  
+🔗 https://github.com/Luisin07/logistics-validation-engine  
 
-### [Demo Store Auth System](https://github.com/Luisin07/demo-store-auth-system)
-Authentication and user management system for an e-commerce environment, built with PHP, MySQL, and Bootstrap.  
-Focused on validation, session control, and backend organization.
+Simulation of a logistics decision engine that processes ZIP codes to determine delivery availability based on region mapping, operational constraints, lead time, and slot capacity.
+
+---
+
+### Demo Store Auth System  
+🔗 https://github.com/Luisin07/demo-store-auth-system  
+
+Authentication and user management system for an e-commerce environment built with PHP, MySQL, and Bootstrap.
 
 ---
 
 ## Current Focus
 
-- Building projects based on real business scenarios
-- Improving backend logic and application structure
-- Strengthening frontend consistency and user experience
-- Expanding knowledge in data-related topics
-- Creating a portfolio focused on practical development
+- Building projects based on real business scenarios  
+- Improving backend logic and application structure  
+- Strengthening frontend consistency and user experience  
+- Expanding knowledge in data-related topics  
+- Creating a portfolio focused on practical development  
 
 ---
 
-## Professional Direction
+## Let's Connect
 
-I am positioning my profile toward web development, especially in projects involving backend logic, application flows, business rules, and structured user-facing solutions.
-
-My goal is to keep evolving through hands-on work that improves both technical execution and understanding of how software supports real operations.
-
----
-
-## Contact
+If you are interested in my work or want to discuss opportunities, feel free to reach out.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/luis-santini">LinkedIn</a><br/>
