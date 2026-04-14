@@ -41,7 +41,7 @@ My focus is on transforming operational rules into functional, well-structured a
 
 ## Featured Projects
 
-### 🚚 Logistics Validation Engine v2
+### Logistics Validation Engine v2
 🔗 [github.com/Luisin07/logistics-validation-engine-v2](https://github.com/Luisin07/logistics-validation-engine-v2) · [Live Demo](https://logistics-validation-engine-v2.vercel.app)
 
 Fullstack delivery eligibility system built with Node.js, React, and PostgreSQL. Validates ZIP codes against delivery regions, operational constraints, lead time rules, and slot capacity. Backend deployed on Railway, frontend on Vercel.
@@ -50,7 +50,16 @@ Fullstack delivery eligibility system built with Node.js, React, and PostgreSQL.
 
 ---
 
-### 🔐 Visual Store Auth System
+### Adaptive Career Agent (ACA)
+🔗 [github.com/Luisin07/Agente-Carreiras-Project](https://github.com/Luisin07/Agente-Carreiras-Project) · [Run on Colab](https://colab.research.google.com/drive/1ua69ENIZElQ7JBIOpYJfo1zyefqExJJQ?usp=sharing)
+
+AI-powered career strategy assistant built with Python and the OpenAI API. Analyzes automation risk, generates upskilling and reskilling plans, and simulates technical interviews using chained LLM agents with structured JSON output.
+
+`Python` `OpenAI API` `Prompt Engineering` `GPT-4o-mini`
+
+---
+
+### Visual Store Auth System
 🔗 [github.com/Luisin07/visual-store-auth-system](https://github.com/Luisin07/visual-store-auth-system)
 
 Authentication and user management system for an e-commerce environment built with PHP, MySQL, and Bootstrap.
