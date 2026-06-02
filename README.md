@@ -68,6 +68,15 @@ Authentication and user management system for an e-commerce environment built wi
 
 ---
 
+### AI Code Reviewer
+🔗 [github.com/Luisin07/ai-code-reviewer](https://github.com/Luisin07/ai-code-reviewer)
+
+AI-powered code review tool that analyzes JavaScript, TypeScript and Python for bugs, security vulnerabilities, and quality score. Built with Next.js, FastAPI, and Groq's LLaMA 3.3 70B. Features side-by-side diff viewer, review history with tabs, and PDF export.
+
+`Next.js` `TypeScript` `FastAPI` `Python` `Groq API` `Tailwind CSS`
+
+---
+
 ## Current Focus
 
 - Building fullstack projects based on real business scenarios
